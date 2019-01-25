@@ -43,6 +43,8 @@ function greeting(a,b) {
 
 // Explanation: 
 
+// THE nestedfunction() can access the variable internal internal because  it is working from the same scope. 
+
 
 const external = "I'm outside the function";
 
